@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+    <metadata>
+        <id>cloudeveloper.mime</id>
+        <version>1.0.0</version>
+        <title>ClouDeveloper Mime Dictionary</title>
+        <authors>ClouDeveloper</authors>
+        <owners>ClouDeveloper</owners>
+        <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+        <projectUrl>https://github.com/rkttu/mime</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>This assembly provides well-known Mime extensions for .NET applications.</description>
+        <summary>This assembly provides well-known Mime extensions for .NET applications.</summary>
+        <copyright>(c) ClouDeveloper, All rights reserved.</copyright>
+        <tags>mimedic cloudeveloper mime mediatypename</tags>
+    </metadata>
+    <files>
+        <file src="bin\Release\ClouDeveloper.Mime.dll" target="lib\net40-client\ClouDeveloper.Mime.dll" />
+        <file src="bin\Release\ClouDeveloper.Mime.pdb" target="lib\net40-client\ClouDeveloper.Mime.pdb" />
+        <file src="bin\Release\ClouDeveloper.Mime.xml" target="lib\net40-client\ClouDeveloper.Mime.xml" />
+    </files>
+</package>
